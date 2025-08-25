@@ -40,4 +40,4 @@ My research interest includes multi-agent collaboration, combination of LLMs and
 
 # 📖 Educations
 - *2023.08 - 2025.09 (now)*, Undergraduate, Duke Kunshan University, Suzhou
-- *2020.09 - 2023.06*, Taicang Highschool of Jiangsu Province, Suzhou
+- *2020.09 - 2023.06*, Taicang Senior High School of Jiangsu Province, Suzhou
