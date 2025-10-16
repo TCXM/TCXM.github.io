@@ -31,7 +31,7 @@ My research interest includes multi-agent collaboration, combination of LLMs and
 
 [CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments](https://www.ieee-ras.org/publications/ra-l/submission-procedures)
 
-Xintong Zhang, Junfeng Chen, *Yuxiao Zhu*, and Meng Guo
+Xintong Zhang, Junfeng Chen, **Yuxiao Zhu**, and Meng Guo
 
 [**Project**](https://junfengchen-robotics.github.io/SLEI3D/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose CoCoPlan, a unified framework that co-optimizes collaborative task planning and intermittent communication for multi-robot systems. Our approach integrates the branch-and-bound task encoding, adaptive efficiency objectives, and optimized event scheduling to handle dynamic environments under limited connectivity in both office and disaster-response scenarios.
