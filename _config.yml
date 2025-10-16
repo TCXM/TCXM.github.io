@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuxiao Zhu"
+title                    : "Yuxiao Zhu (朱煜肖)"
 description              : "Focusing on multi-agent collaboration, LLMs, and many other computer science areas."
 repository               : "TCXM/TCXM.github.io"
 google_scholar_stats_use_cdn : true
