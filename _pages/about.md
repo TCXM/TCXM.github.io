@@ -17,14 +17,26 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an undergraduate student majoring computer science at Duke Kunshan University.
+I'm an undergraduate student majoring computer science at Duke Kunshan University. I am recently collaborating with Prof. [Meng Guo (国萌)](https://mengguo.github.io/personal_site/) and his team, especially Dr. [Junfeng Chen (陈俊锋)](https://junfengchen-robotics.github.io/) from Peking University. I am a member of [Edge Intelligence Lab](https://sites.duke.edu/edgeintelligence/) supervised by Prof. [Bing Luo (罗冰)](https://luobing1008.github.io/index.html).
 
-My research interest includes multi-agent collaboration, combination of LLMs and task allocation, etc.
+My research interests focus on adaptive coordination and communication in multi-robot systems, particularly under challenging conditions such as intermittent connectivity, limited communication, and unknown environments. I specialize in developing frameworks that optimize task planning, dynamic allocation, and communication strategies for heterogeneous robotic fleets (e.g., UAVs/UGVs) using LLM, optimization, and tree-search algorithms. My work emphasizes creating robust, scalable, and explainable solutions for real-world applications, including large-scale 3D exploration, inspection, and interaction. Through high-fidelity simulations and innovative algorithmic designs, I aim to address practical challenges in dynamic scenarios while ensuring reliable system performance.
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 One papaer is accepted by IROS 2025.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics 2025</div><img src='images/dexter_llm_plus.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLMs Meet Formal Methods for Robot Swarms: Reliable, Explainable and Efficient Human-in-the-loop Planning in Unknown Environments](https://www.science.org/journal/scirobotics)
+
+Junfeng Chen, **Yuxiao Zhu**, An Zhuo, Xintong Zhang, Shuo Zhang, Meng Guo, and Zhongkui Li.
+
+[**Video**](https://www.youtube.com/watch?v=dwQUosh9Kds&feature=youtu.be) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a formal method and LLM framework for coordinating large fleets of heterogeneous robots in open and dynamic environments. Our approach integrates model-checking-based task planning with LLM-powered reasoning and interaction, ensuring adaptability, explainability, and optimal mission execution. Validated through simulations and real-world deployments, it proves effective for disaster response, infrastructure inspection, and dynamic surveillance.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='images/cocoplan.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -59,11 +71,11 @@ Junfeng Chen, **Yuxiao Zhu**, Xintong Zhang, and Meng Guo
 
 **Yuxiao Zhu**, Junfeng Chen, Xintong Zhang, Meng Guo, Zhongkui Li
 
-[**Project**](https://tcxm.github.io/DEXTER-LLM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Homepage**](https://tcxm.github.io/DEXTER-LLM/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose DEXTER-LLM, a novel framework for dynamic task planning in unknown environments. Our approach integrates LLM-based multi-stage reasoning, optimization-based task assignment, and adaptive human-in-the-loop verification to tackle the challenges of online adaptability and explainability.
 </div>
 </div>
 
 # 📖 Educations
-- *2023.08 - 2025.09 (now)*, Undergraduate, Duke Kunshan University, Suzhou
+- *2023.08 - 2025.11 (now)*, Undergraduate, Duke Kunshan University, Suzhou
 - *2020.09 - 2023.06*, Taicang Senior High School of Jiangsu Province, Suzhou
