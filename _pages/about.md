@@ -43,7 +43,7 @@ Junfeng Chen, **Yuxiao Zhu**, An Zhuo, Xintong Zhang, Shuo Zhang, Meng Guo, and 
 
 [CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments](https://www.ieee-ras.org/publications/ra-l/submission-procedures)
 
-Xintong Zhang, Junfeng Chen, **Yuxiao Zhu**, and Meng Guo
+Xintong Zhang, Junfeng Chen, **Yuxiao Zhu**, Bing Luo，and Meng Guo
 
 - We propose CoCoPlan, a unified framework that co-optimizes collaborative task planning and intermittent communication for multi-robot systems. Our approach integrates the branch-and-bound task encoding, adaptive efficiency objectives, and optimized event scheduling to handle dynamic environments under limited connectivity in both office and disaster-response scenarios.
 </div>
@@ -55,7 +55,7 @@ Xintong Zhang, Junfeng Chen, **Yuxiao Zhu**, and Meng Guo
 
 [SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication](https://www.ieee-ras.org/publications/t-ase/information-for-authors-t-ase)
 
-Junfeng Chen, **Yuxiao Zhu**, Xintong Zhang, and Meng Guo
+Junfeng Chen, **Yuxiao Zhu**, Xintong Zhang, Bing Luo，and Meng Guo
 
 [**Project Homepage**](https://junfengchen-robotics.github.io/SLEI3D/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose SLEI3D, a planning and coordination framework for heterogeneous multi-robot systems to perform simultaneous 3D exploration, inspection, and real-time reporting in unknown environments. Our approach integrates adaptive inspection and intermittent communication protocols with a multi-layer, multi-rate planning mechanism for robust coordination.
