@@ -26,7 +26,7 @@ My research interests focus on adaptive coordination and communication in multi-
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics 2025</div><img src='images/dexter_llm_plus.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Science Robotics (In Preparation)</div><img src='images/dexter_llm_plus.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLMs Meet Formal Methods for Robot Swarms: Reliable, Explainable and Efficient Human-in-the-loop Planning in Unknown Environments](https://www.science.org/journal/scirobotics)
@@ -38,27 +38,26 @@ Junfeng Chen, **Yuxiao Zhu**, An Zhuo, Xintong Zhang, Shuo Zhang, Meng Guo, and 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L 2025</div><img src='images/cocoplan.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RA-L (Under Review)</div><img src='images/cocoplan.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments](https://www.ieee-ras.org/publications/ra-l/submission-procedures)
 
 Xintong Zhang, Junfeng Chen, **Yuxiao Zhu**, and Meng Guo
 
-[**Project**](https://junfengchen-robotics.github.io/SLEI3D/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose CoCoPlan, a unified framework that co-optimizes collaborative task planning and intermittent communication for multi-robot systems. Our approach integrates the branch-and-bound task encoding, adaptive efficiency objectives, and optimized event scheduling to handle dynamic environments under limited connectivity in both office and disaster-response scenarios.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE 2025</div><img src='images/slei3d.webp' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">T-ASE (Under Review)</div><img src='images/slei3d.webp' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets under Limited Communication](https://www.ieee-ras.org/publications/t-ase/information-for-authors-t-ase)
 
 Junfeng Chen, **Yuxiao Zhu**, Xintong Zhang, and Meng Guo
 
-[**Project**](https://junfengchen-robotics.github.io/SLEI3D/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project Homepage**](https://junfengchen-robotics.github.io/SLEI3D/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose SLEI3D, a planning and coordination framework for heterogeneous multi-robot systems to perform simultaneous 3D exploration, inspection, and real-time reporting in unknown environments. Our approach integrates adaptive inspection and intermittent communication protocols with a multi-layer, multi-rate planning mechanism for robust coordination.
 </div>
 </div>
