@@ -1,28 +1,28 @@
 ---
-title: Example Talk
+title: "DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems in Unknown Environments Via Large Language Models"
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
+event: IROS 2025 Conference
+event_url: https://iros25.org/
 
-location: Hugo Blox Builder HQ
+location: Hangzhou International Expo Center (HIEC)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 353 Benjing Avenue
+  city: Hangzhou
+  region: Zhejiang
+  country: China
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: We propose DEXTER-LLM, a novel framework for dynamic task planning in unknown environments. Our approach integrates LLM-based multi-stage reasoning, optimization-based task assignment, and adaptive human-in-the-loop verification to tackle the challenges of online adaptability and explainability.
+
+abstract: 'We propose DEXTER-LLM, a novel framework for dynamic task planning in unknown environments. Our approach integrates LLM-based multi-stage reasoning, optimization-based task assignment, and adaptive human-in-the-loop verification to tackle the challenges of online adaptability and explainability.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-10-22T13:20:00'
+date_end: '2025-10-22T13:25:00'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
 
 authors:
   - admin
@@ -33,16 +33,16 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ''
   focal_point: Right
 
-links:
-  - type: code
-    url: https://github.com
-  - type: slides
-    url: https://slideshare.net
-  - type: video
-    url: https://youtube.com
+# links:
+#   - type: code
+#     url: https://github.com
+#   - type: slides
+#     url: https://slideshare.net
+#   - type: video
+#     url: https://youtube.com
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -60,7 +60,7 @@ projects:
   - example
 ---
 
-> [!NOTE]
+<!-- > [!NOTE]
 > Click on the **Slides** button above to view the built-in slides feature.
 
 Slides can be added in a few ways:
@@ -69,4 +69,4 @@ Slides can be added in a few ways:
 - **Upload** an existing slide deck to this page bundle and link it using `links: [{ type: slides, url: path/to/file } ]` in front matter
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
 
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
+Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page. -->
