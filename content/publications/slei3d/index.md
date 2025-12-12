@@ -19,7 +19,7 @@ author_notes:
   - ''
   - 'Corresponding author' 
 
-date: '2025-05-31T00:00:00Z'
+date: '2025-01-06T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2025-06-01T00:00:00Z'
@@ -30,7 +30,7 @@ publishDate: '2025-06-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *T-ASE*
+publication: In *IEEE Transactions on Automation Science and Engineering (T-ASE)*
 # publication_short: In *ICW*
 
 abstract: We propose SLEI3D, a planning and coordination framework for heterogeneous multi-robot systems to perform simultaneous 3D exploration, inspection, and real-time reporting in unknown environments. Our approach integrates adaptive inspection and intermittent communication protocols with a multi-layer, multi-rate planning mechanism for robust coordination.
@@ -47,7 +47,7 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: ''
+    doi: '10.1109/TASE.2025.3643166'
 
 # Custom links
 links:

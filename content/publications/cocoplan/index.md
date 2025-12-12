@@ -23,7 +23,7 @@ publishDate: "2025-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "In *IEEE Robotics and Automation Letters (RA-L)*"
 publication_short: ""
 
 abstract: We propose CoCoPlan, a unified framework that co-optimizes collaborative task planning and intermittent communication for multi-robot systems. Our approach integrates the branch-and-bound task encoding, adaptive efficiency objectives, and optimized event scheduling to handle dynamic environments under limited connectivity in both office and disaster-response scenarios.
