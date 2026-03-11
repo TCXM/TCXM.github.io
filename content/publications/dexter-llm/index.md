@@ -6,8 +6,8 @@ title: 'DEXTER-LLM: Dynamic and Explainable Coordination of Multi-Robot Systems 
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - junfeng
-  - xintong
+  - Junfeng Chen
+  - Xintong Zhang
   - Meng Guo
   - Zhongkui Li
 

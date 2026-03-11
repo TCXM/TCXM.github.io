@@ -5,9 +5,9 @@ title: 'SLEI3D: Simultaneous Exploration and Inspection via Heterogeneous Fleets
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - junfeng
+  - Junfeng Chen
   - admin
-  - xintong
+  - Xintong Zhang
   - Bing Luo
   - Meng Guo
 

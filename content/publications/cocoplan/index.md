@@ -1,8 +1,8 @@
 ---
 title: "CoCoPlan: Adaptive Coordination and Communication for Multi-robot Systems in Dynamic and Unknown Environments"
 authors:
-- xintong
-- junfeng
+- Xintong Zhang
+- Junfeng Chen
 - admin
 - Bing luo
 - Meng Guo

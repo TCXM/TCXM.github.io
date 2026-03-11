@@ -5,10 +5,10 @@ title: 'Neuro-symbolic AI for reliable human-swarm collaboration in complex envi
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - junfeng
+  - Junfeng Chen
   - admin
   - An Zhuo
-  - xintong
+  - Xintong Zhang
   - Shuo Zhang
   - Guanghui Wen
   - Xiwang Dong
