@@ -48,8 +48,9 @@ profiles:
     url: https://orcid.org/0009-0000-8971-5966
 
 interests:
-  - Large Language Models
-  - Reinforcement Learning
+  - Large Models Task Reasoning
+  - Agentic Task Planning
+  - Multi-agent Collaboration
 
 education:
   # - area: PhD Computer Science (AI Focus)

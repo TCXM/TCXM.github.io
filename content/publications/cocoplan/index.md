@@ -37,7 +37,7 @@ featured: true
 
 hugoblox:
   ids:
-    arxiv: 
+    doi: 10.1109/LRA.2026.3656769 
 
 links:
   # - type: pdf

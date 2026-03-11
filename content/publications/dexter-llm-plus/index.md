@@ -1,5 +1,5 @@
 ---
-title: 'LLMs Meet Formal Methods for Robot Swarms: Reliable, Explainable and Efficient Human-in-the-loop Planning in Unknown Environments'
+title: 'Neuro-symbolic AI for reliable human-swarm collaboration in complex environments'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
