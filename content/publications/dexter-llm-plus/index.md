@@ -55,14 +55,14 @@ featured: true
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    arxiv: ''
+    # arxiv: ''
 
 # Custom links
 links:
-  - type: project
-    url: https://trio-pku.github.io/DEXTER-LLM-Plus/
-  - type: code
-    url: https://github.com/TRIO-PKU/DEXTER-LLM-Plus
+  # - type: project
+  #   url: https://trio-pku.github.io/DEXTER-LLM-Plus/
+  # - type: code
+  #   url: https://github.com/TRIO-PKU/DEXTER-LLM-Plus
   # - type: dataset
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   # - type: slides
@@ -70,7 +70,7 @@ links:
   # - type: source
   #   url: https://github.com/HugoBlox/hugo-blox-builder
   - type: video
-    url: https://www.youtube.com/watch?v=lxQBnLasXFE
+    url: https://youtube.com/playlist?list=PLuS_Zbkou8gDDYOLYwtnVwYIMZ1xhFetA&si=Bb1-R46-KWXV7C6_
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
